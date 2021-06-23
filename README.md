@@ -1,6 +1,4 @@
-# Just another Demo Repo
-
-This repo is 1 of the demos repo's that [Gordon Beeming](https://beeming.dev/) has most likely created.
+# Binaries used in demos
 
 For my primary account check out [@Gordon-Beeming](https://github.com/Gordon-Beeming)
 
